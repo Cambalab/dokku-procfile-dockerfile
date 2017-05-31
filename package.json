@@ -1,0 +1,10 @@
+{
+    "name": "test-procfile",
+    "private": true,
+    "devDependencies": {
+        "express": "^4.14.0"
+    },
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}
